@@ -1,0 +1,1011 @@
+{
+   "Devices":{
+      "FG160":{
+         "Change Note":{
+            "更新记录-中文-20211228.txt":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Change+Note/更新记录-中文-20211228.txt",
+            "Change History-EN-20211228.txt":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Change+Note/Change+History-EN-20211228.txt"
+         },
+         "En":{
+            "2-Hardware":{
+               "Fibocom_FG160-NA_CA_ENDC_List_V1.4.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160-NA_CA_ENDC_List_V1.4.xlsx",
+               "FIBOCOM 5G Model Design Guide_Antenna Tuner_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/FIBOCOM+5G+Model+Design+Guide_Antenna+Tuner_V1.1.pdf",
+               "FIBOCOM_Design_Guide_UART_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/FIBOCOM_Design_Guide_UART_V1.1.pdf",
+               "FIBOCOM FG160_ODU_RTL8125BG_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/FIBOCOM+FG160_ODU_RTL8125BG_Reference+Design_V1.0.zip",
+               "Fibocom_FG160-EAU_Hardware Guide_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160-EAU_Hardware+Guide_V1.2.pdf",
+               "FIBOCOM 5G Module Sub6 Coexistence With WLAN Guide_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/FIBOCOM+5G+Module+Sub6+Coexistence+With+WLAN+Guide_V1.1.pdf",
+               "Fibocom_EVB-LGA-F01_User Guide_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_EVB-LGA-F01_User+Guide_V1.2.pdf",
+               "FIBOCOM FG160_PCIe EP Mode_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/FIBOCOM+FG160_PCIe+EP+Mode_Reference+Design_V1.0.zip",
+               "Fibocom_FG160_SMT Design Guide_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160_SMT+Design+Guide_V1.1.pdf",
+               "Fibocom_Module General Thermal Design Guide_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_Module+General+Thermal+Design+Guide_V1.1.pdf",
+               "Fibocom_FG160_Series _PCB Design Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160_Series+_PCB+Design+Guide_V1.0.pdf",
+               "Fibocom_FG160-NA_Hardware Guide_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160-NA_Hardware+Guide_V1.2.pdf",
+               "Related Resources":{
+                  "FIBOCOM FG160 Series 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Related+Resources/FIBOCOM+FG160+Series+3D+Module+Diagram.zip",
+                  "Fibocom_FG160-EAU_thermal.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Related+Resources/Fibocom_FG160-EAU_thermal.zip"
+               },
+               "Fibocom_ADP-FG160_User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_ADP-FG160_User+Guide_V1.0.pdf",
+               "Fibocom_FG160_Supported Peripheral List_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160_Supported+Peripheral+List_V1.0.pdf",
+               "FIBOCOM FG160_MiFi_WCN6856_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/FIBOCOM+FG160_MiFi_WCN6856_Reference+Design_V1.0.zip",
+               "Fibocom_Design Guide_RF Antenna_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_Design+Guide_RF+Antenna_V1.3.pdf",
+               "Fibocom_FG160 Schematic Design Checklist_V1.0.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160+Schematic+Design+Checklist_V1.0.xlsx",
+               "Fibocom_FG160-EAU_CA_ENDC_List_V1.1.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160-EAU_CA_ENDC_List_V1.1.xlsx",
+               "Fibocom_FW Updater Tool User Guide_V1.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FW+Updater+Tool+User+Guide_V1.4.pdf",
+               "Fibocom FG160_WCN6856_RTL8211F_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom+FG160_WCN6856_RTL8211F_Reference+Design_V1.0.zip",
+               "Fibocom_FG160_Hardware Guide_Audio_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/2-Hardware/Fibocom_FG160_Hardware+Guide_Audio_V1.0.pdf"
+            },
+            "3-Software":{
+               "Linux":{
+                  "Fibocom_Hostproxy Tool User Guide_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Hostproxy+Tool+User+Guide_V2.4.pdf",
+                  "Fibocom_Upgrade_Guide_FOAT_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Upgrade_Guide_FOAT_Linux_V1.1.pdf",
+                  "Fibocom GobiNet Driver Integration and RmNet Dial Guide_Linux (Desktop)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom+GobiNet+Driver+Integration+and+RmNet+Dial+Guide_Linux+(Desktop)_V2.5.pdf",
+                  "Fibocom_ECM MPDN Dial Guide_Linux_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_ECM+MPDN+Dial+Guide_Linux_V1.0.1.pdf",
+                  "Fibocom_QMI_WWAN_Driver_Integration and Dial Guide_Linux (Desktop)_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_QMI_WWAN_Driver_Integration+and+Dial+Guide_Linux+(Desktop)_V2.3.pdf",
+                  "Fibocom_Diaggrab_Capture_Log_Guide_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Diaggrab_Capture_Log_Guide_V2.2.pdf",
+                  "Fibocom_PCIe Driver Integration and Application Guide_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_PCIe+Driver+Integration+and+Application+Guide_Linux_V1.1.pdf",
+                  "Fibocom_Dump Log Tool User Guide_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Dump+Log+Tool+User+Guide_V2.2.pdf",
+                  "Fibocom QMI Dial-up Tool User Guide_Linux_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom QMI+Dial-up+Tool+User+Guide_Linux_V2.6.pdf",
+                  "Fibocom_Qualcomm_GobiNet Driver Integration and RmNet Dial Guide_Linux (Desktop)_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Qualcomm_GobiNet+Driver+Integration+and+RmNet+Dial+Guide_Linux+(Desktop)_V2.6.pdf",
+                  "Fibocom QMI_WWAN Driver Integration and Dial Guide_Linux (Desktop)_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom+QMI_WWAN+Driver+Integration+and+Dial+Guide_Linux+(Desktop)_V2.3.pdf",
+                  "Fibocom_Upgrade_Guide_FOTA_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Upgrade_Guide_FOTA_V1.1.pdf",
+                  "Fibocom_ECM&NCM&RNDIS&MBIM Dial-up Integration Guide_Linux_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_ECM&NCM&RNDIS&MBIM+Dial-up+Integration+Guide_Linux_V1.0.pdf",
+                  "Related Resources":{
+                     "Fibocom-dial_Linux_Tool_V2.0.11.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Fibocom-dial_Linux_Tool_V2.0.11.7z",
+                     "Fibocom_Linux_GobiNet_Driver_V2.01.00.06.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Fibocom_Linux_GobiNet_Driver_V2.01.00.06.7z",
+                     "Fibocom_QMI_WWAN_Driver_V1.0.5.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Fibocom_QMI_WWAN_Driver_V1.0.5.7z",
+                     "Hostproxy_TooL_V1.0.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Hostproxy_TooL_V1.0.2.rar",
+                     "Upgrade_Tool_Android&Linux_V1.3.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Upgrade_Tool_Android&Linux_V1.3.0.7z",
+                     "Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z",
+                     "Fibocom_Linux_pcie_host_driver_1.0.6.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/Fibocom_Linux_pcie_host_driver_1.0.6.zip",
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Related+Resources/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z"
+                  },
+                  "Fibocom GobiNet Driver Integration and RmNet Dial Guide_Linux (Embedded)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom+GobiNet+Driver+Integration+and+RmNet+Dial+Guide_Linux+(Embedded)_V2.5.pdf",
+                  "Fibocom_QMI_WWAN Driver Integration and Dial Guide_Linux (Embedded)_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_QMI_WWAN+Driver+Integration+and+Dial+Guide_Linux+(Embedded)_V2.4.pdf",
+                  "Fibocom_Qualcomm_Platform_Product_Download_Guide_Linux&Android_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Linux/Fibocom_Qualcomm_Platform_Product_Download_Guide_Linux&Android_V1.2.pdf"
+               },
+               "General":{
+                  "Fibocom Application Guide_Sleep & Wakeup_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom+Application+Guide_Sleep+&+Wakeup_V1.3.pdf",
+                  "Fibocom_FG160&FM160_Quick Start_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom_FG160&FM160_Quick+Start_V1.0.pdf",
+                  "Fibocom Application Guide_SAR_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom+Application+Guide_SAR_V1.0.pdf",
+                  "Fibocom FG160&FM160 Application Guide Manual_GNSS_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom+FG160&FM160+Application+Guide+Manual_GNSS_V1.0.pdf",
+                  "Fibocom_FG160&FM160_AT Commands_Audio_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom_FG160&FM160_AT+Commands_Audio_V1.0.pdf",
+                  "FIBOCOM Application Guide_eSIM_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/FIBOCOM Application+Guide_eSIM_V1.0.pdf",
+                  "Fibocom_Application Guide_Sleep & Wakeup_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom_Application+Guide_Sleep+&+Wakeup_V1.3.pdf",
+                  "FIBOCOM USB Driver Installer User Guide_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/FIBOCOM+USB+Driver+Installer+User+Guide_V1.2.pdf",
+                  "Fibocom_FG160_Wi-Fi Configuration Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom_FG160_Wi-Fi+Configuration+Guide_V1.0.pdf",
+                  "Fibocom_FM160&FG160_AT Commands User Manual_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom_FM160&FG160_AT+Commands+User+Manual_V1.0.3.pdf",
+                  "Fibocom_Application Guide_AT_over_Ethernet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/General/Fibocom_Application+Guide_AT_over_Ethernet_V1.1.pdf"
+               },
+               "Windows":{
+                  "Related Resources":{
+                     "FBLogCapTool_2.0.0.11(For FM160).7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/Related+Resources/FBLogCapTool_2.0.0.11(For+FM160).7z",
+                     "Common_FWUpdaterTool_v1.0.0.8(FM160).7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/Related+Resources/Common_FWUpdaterTool_v1.0.0.8(FM160).7z",
+                     "FbUSBDeviceSetup_v2.1.2.5.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/Related+Resources/FbUSBDeviceSetup_v2.1.2.5.7z"
+                  },
+                  "FIBOCOM_Common_FW_Upgrade_User_Guide_V1.1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/FIBOCOM_Common_FW_Upgrade_User_Guide_V1.1.0.pdf",
+                  "fibocom fx160 fw upgrade instruction_v1.1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/fibocom+fx160+fw+upgrade+instruction_v1.1.0.pdf",
+                  "Fibocom_Dial_Guide_Windows_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/Fibocom_Dial_Guide_Windows_V1.1.pdf",
+                  "FIBOCOM USB Driver Installer User Guide_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/FIBOCOM+USB+Driver+Installer+User+Guide_V1.2.pdf",
+                  "Fibocom_FbLogCapTool_User_Guide_V1.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/Fibocom_FbLogCapTool_User_Guide_V1.7.pdf",
+                  "Fibocom_Common_FW_Updater_Tool_User_Guide_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Windows/Fibocom_Common_FW_Updater_Tool_User_Guide_V1.3.pdf"
+               },
+               "Android":{
+                  "Fibocom_GNSS Integration Guide_Android_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Fibocom_GNSS+Integration+Guide_Android_V1.0.pdf",
+                  "Fibocom_RIL_Integration_Guide_Android_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Fibocom_RIL_Integration_Guide_Android_V2.3.pdf",
+                  "Related Resources":{
+                     "GPS_V2.0.1.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Related+Resources/GPS_V2.0.1.7z",
+                     "Fibocom_Android_RIL_V1.2.0.9.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Related+Resources/Fibocom_Android_RIL_V1.2.0.9.7z",
+                     "Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Related+Resources/Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z",
+                     "Ril_V2.0.8.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Related+Resources/Ril_V2.0.8.zip",
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Android/Related+Resources/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z"
+                  }
+               },
+               "Open":{
+                  "Fibocom_FG160 OpenLinux_Technology and Resource Overview_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160+OpenLinux_Technology+and+Resource+Overview_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux Secboot Application Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160_OpenLinux+Secboot+Application+Guide_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_WEB UI User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160_OpenLinux_WEB+UI+User+Guide_V1.0.pdf",
+                  "Fibocom_FG101&FG160&FG360_OpenCPU API Application_V1.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG101&FG160&FG360_OpenCPU+API+Application_V1.6.pdf",
+                  "Fibocom_FG160_OpenLinux Development Environment Setup Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160_OpenLinux+Development+Environment+Setup+Guide_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux Development Guide_GPIO_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160_OpenLinux+Development+Guide_GPIO_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_SPI Interface Configuration Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160_OpenLinux_SPI+Interface+Configuration+Guide_V1.0.pdf",
+                  "Fibocom_FG160 OpenLinux_Upgrade Package Preparation Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160+OpenLinux_Upgrade+Package+Preparation+Guide_V1.0.pdf",
+                  "Fibocom_FG160 OpenLinux_Device Tree Configuration Guide_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160+OpenLinux_Device+Tree+Configuration+Guide_V1.1.pdf",
+                  "Fibocom_FG160_OpenLinux_Partition Adjustment Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160_OpenLinux_Partition+Adjustment+Guide_V1.0.pdf",
+                  "Fibocom_FG160 OpenLinux_Auto Start User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/3-Software/Open/Fibocom_FG160+OpenLinux_Auto+Start+User+Guide_V1.0.pdf"
+               }
+            },
+            "1-Overview":{
+               "Fibocom_FG160-NA_Datasheet_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/1-Overview/Fibocom_FG160-NA_Datasheet_V1.3.pdf",
+               "Fibocom_FG160-EAU_Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/En/1-Overview/Fibocom_FG160-EAU_Datasheet_V1.1.pdf"
+            }
+         },
+         "Zh":{
+            "2-硬件":{
+               "Fibocom_FG160-NA_CA_ENDC_List_V1.4.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_FG160-NA_CA_ENDC_List_V1.4.xlsx",
+               "Fibocom_模块通用热设计指南_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_模块通用热设计指南_V1.1.pdf",
+               "FIBOCOM FG160_ODU_RTL8125BG_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/FIBOCOM+FG160_ODU_RTL8125BG_Reference+Design_V1.0.zip",
+               "Fibocom_5G模块_设计指南_天线调谐开关_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_5G模块_设计指南_天线调谐开关_V1.1.pdf",
+               "FIBOCOM_设计指南_UART_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/FIBOCOM_设计指南_UART_V1.1.pdf",
+               "相关资源":{
+                  "FIBOCOM FG160 Series 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/相关资源/FIBOCOM+FG160+Series+3D+Module+Diagram.zip",
+                  "FIBOCOM FG160 Series Package.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/相关资源/FIBOCOM+FG160+Series+Package.zip"
+               },
+               "FIBOCOM FG160_PCIe EP Mode_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/FIBOCOM+FG160_PCIe+EP+Mode_Reference+Design_V1.0.zip",
+               "Fibocom_FW Updater Tool用户指导手册_V1.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_FW+Updater+Tool用户指导手册_V1.4.pdf",
+               "Fibocom_FG160_SMT设计指南_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_FG160_SMT设计指南_V1.1.pdf",
+               "Fibocom_5G模块_Sub6与WLAN共存指南_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_5G模块_Sub6与WLAN共存指南_V1.1.pdf",
+               "Fibocom_设计指南_RF Antenna_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_设计指南_RF+Antenna_V1.3.pdf",
+               "Fibocom_FM160-NA_CA_ENDC_List_V1.3.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom_FM160-NA_CA_ENDC_List_V1.3.xlsx",
+               "FIBOCOM FG160_MiFi_WCN6856_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/FIBOCOM+FG160_MiFi_WCN6856_Reference+Design_V1.0.zip",
+               "Fibocom FG160_WCN6856_RTL8211F_Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/2-硬件/Fibocom+FG160_WCN6856_RTL8211F_Reference+Design_V1.0.zip"
+            },
+            "3-软件":{
+               "Linux":{
+                  "Fibocom_高通_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_高通_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.6.pdf",
+                  "Fibocom_PCIe驱动集成及使用指南_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_PCIe驱动集成及使用指南_Linux_V1.1.pdf",
+                  "Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(桌面)_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(桌面)_V2.3.pdf",
+                  "FIBOCOM ECM&MPDN拨号指南_Linux_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/FIBOCOM+ECM&MPDN拨号指南_Linux_V1.0.1.pdf",
+                  "Fibocom_QMI拨号工具使用指南_Linux_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_QMI拨号工具使用指南_Linux_V2.6.pdf",
+                  "Fibocom_升级指南_FOAT_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_升级指南_FOAT_Linux_V1.1.pdf",
+                  "相关资源":{
+                     "Fibocom-dial_Linux_Tool_V2.0.11.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Fibocom-dial_Linux_Tool_V2.0.11.7z",
+                     "Fibocom_Linux_FWUpdate_V1.0.0.8.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Fibocom_Linux_FWUpdate_V1.0.0.8.7z",
+                     "Fibocom_Linux_GobiNet_Driver_V2.01.00.06.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Fibocom_Linux_GobiNet_Driver_V2.01.00.06.7z",
+                     "Fibocom_QMI_WWAN_Driver_V1.0.5.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Fibocom_QMI_WWAN_Driver_V1.0.5.7z",
+                     "Hostproxy_TooL_V1.0.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Hostproxy_TooL_V1.0.2.rar",
+                     "Upgrade_Tool_Android&Linux_V1.3.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Upgrade_Tool_Android&Linux_V1.3.0.7z",
+                     "Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z",
+                     "Fibocom_Linux_pcie_host_driver_1.0.6.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/Fibocom_Linux_pcie_host_driver_1.0.6.zip",
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/相关资源/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z"
+                  },
+                  "Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(嵌入式)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(嵌入式)_V2.5.pdf",
+                  "Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.5.pdf",
+                  "Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(嵌入式)_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(嵌入式)_V2.4.pdf",
+                  "Fibocom_升级指南_FOTA_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_升级指南_FOTA_V1.1.pdf",
+                  "Fibocom_高通平台产品_下载指南_Linux&Android_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_高通平台产品_下载指南_Linux&Android_V1.2.pdf",
+                  "Fibocom_Dump Log工具使用指南_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_Dump+Log工具使用指南_V2.2.pdf",
+                  "Fibocom_Hostproxy工具使用指导_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_Hostproxy工具使用指导_V2.4.pdf",
+                  "Fibocom_Diaggrab抓取Log指南_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Linux/Fibocom_Diaggrab抓取Log指南_V2.2.pdf"
+               },
+               "Windows":{
+                  "相关资源":{
+                     "FBLogCapTool_2.0.0.11(For FM160).7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/相关资源/FBLogCapTool_2.0.0.11(For+FM160).7z",
+                     "Common_FWUpdaterTool_v1.0.0.8(FM160).7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/相关资源/Common_FWUpdaterTool_v1.0.0.8(FM160).7z",
+                     "FbUSBDeviceSetup_v2.1.2.5.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/相关资源/FbUSBDeviceSetup_v2.1.2.5.7z"
+                  },
+                  "Fibocom_拨号指南_Windows_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/Fibocom_拨号指南_Windows_V1.1.pdf",
+                  "Fibocom_FbLogCapTool_用户指导手册_V1.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/Fibocom_FbLogCapTool_用户指导手册_V1.7.pdf",
+                  "FIBOCOM USB驱动安装包用户指导手册_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/FIBOCOM+USB驱动安装包用户指导手册_V1.2.pdf",
+                  "Fibocom_通用FW_Updater工具_用户指导手册_V1.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Windows/Fibocom_通用FW_Updater工具_用户指导手册_V1.5.pdf"
+               },
+               "Android":{
+                  "相关资源":{
+                     "GPS_V2.0.1.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/相关资源/GPS_V2.0.1.7z",
+                     "Fibocom_Android_RIL_V1.2.0.9.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/相关资源/Fibocom_Android_RIL_V1.2.0.9.7z",
+                     "Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/相关资源/Fibocom_Android_Linux_Diaggrab_V1.2.0.0.7z",
+                     "Ril_V2.0.8.zip":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/相关资源/Ril_V2.0.8.zip",
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/相关资源/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.7z"
+                  },
+                  "Fibocom_RIL集成指南_Android_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/Fibocom_RIL集成指南_Android_V2.3.pdf",
+                  "Fibocom_GNSS集成指南_Android_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Android/Fibocom_GNSS集成指南_Android_V1.0.pdf"
+               },
+               "Open":{
+                  "Fibocom_FG160_OpenLinux_开机自启动服务使用指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_开机自启动服务使用指南_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_设备树配置指导指南_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_设备树配置指导指南_V1.1.pdf",
+                  "Fibocom_FG160_开发指南_Open_linux_GPIO_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_开发指南_Open_linux_GPIO_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_技术与资源综述_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_技术与资源综述_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_分区调整方法_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_分区调整方法_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_GPIO模拟PWM接口配置指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_GPIO模拟PWM接口配置指南_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_升级包制作指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_升级包制作指南_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux系列开发环境搭建指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux系列开发环境搭建指南_V1.0.pdf",
+                  "Fibocom_FG101&FG160&FG360_API接口手册_V1.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG101&FG160&FG360_API接口手册_V1.6.pdf",
+                  "Fibocom_FG160_OpenLinux _Secboot应用指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux+_Secboot应用指南_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_WEB UI使用指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_WEB+UI使用指南_V1.0.pdf",
+                  "Fibocom_FG160_OpenLinux_SPI接口配置指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/Open/Fibocom_FG160_OpenLinux_SPI接口配置指南_V1.0.pdf"
+               },
+               "通用":{
+                  "Fibocom_FG160_GPIO功能复用_V1.0.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FG160_GPIO功能复用_V1.0.xlsx",
+                  "Fibocom_FG160&FM160_应用指南_GNSS_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FG160&FM160_应用指南_GNSS_V1.0.pdf",
+                  "Fibocom_AT_over_Ethernet_应用指南_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_AT_over_Ethernet_应用指南_V1.1.pdf",
+                  "Fibocom_应用指南_休眠唤醒_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_应用指南_休眠唤醒_V1.3.pdf",
+                  "Fibocom 应用指南_SAR_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom+应用指南_SAR_V1.0.pdf",
+                  "Fibocom_FG160_配置指南_Wi-Fi_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FG160_配置指南_Wi-Fi_V1.0.pdf",
+                  "Fibocom_FG160&FM160 音频AT命令使用手册_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FG160&FM160+音频AT命令使用手册_V1.0.pdf",
+                  "Fibocom_FG160&FM160_快速入门_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FG160&FM160_快速入门_V1.0.pdf",
+                  "Fibocom_FM160&FG160_驻网问题及拨号问题快速排查指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FM160&FG160_驻网问题及拨号问题快速排查指南_V1.0.pdf",
+                  "FIBOCOM 应用指南_eSIM_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/FIBOCOM+应用指南_eSIM_V1.0.pdf",
+                  "Fibocom_FM160&FG160_AT Commands User Manual_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/Fibocom_FM160&FG160_AT+Commands+User+Manual_V1.0.3.pdf",
+                  "FIBOCOM USB驱动安装包用户指导手册_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/FG160/Zh/3-软件/通用/FIBOCOM+USB驱动安装包用户指导手册_V1.2.pdf"
+               }
+            }
+         }
+      },
+      "NL668":{
+         "NL668.png":"https://fibodocs.s3.amazonaws.com/Devices/NL668/NL668.png",
+         "Change Note":{
+            "更新记录-中文-20211229.txt":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Change+Note/更新记录-中文-20211229.txt",
+            "Change History-EN-20211214.txt":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Change+Note/Change+History-EN-20211214.txt"
+         },
+         "En":{
+            "2-Hardware":{
+               "FIBOCOM_SIM Design Application Note_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM_SIM+Design+Application+Note_V1.0.5.pdf",
+               "FIBOCOM NL668-CN Series Hardware Guide_V1.1.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-CN+Series+Hardware+Guide_V1.1.6.pdf",
+               "FIBOCOM ADP-NL668 Development Kit Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+ADP-NL668+Development+Kit+Guide_V1.0.1.pdf",
+               "FIBOCOM EVK-GT8230-NL User manual_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+EVK-GT8230-NL+User+manual_V1.0.4.pdf",
+               "FIBOCOM NL668-LA Series Hardware Guide_V1.0.9.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-LA+Series+Hardware+Guide_V1.0.9.pdf",
+               "FIBOCOM UART Design Application Note_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+UART+Design+Application+Note_V1.0.4.pdf",
+               "Fibocom_NL668_Thermal Design Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_NL668_Thermal+Design+Guide_V1.0.pdf",
+               "Fibocom_ADP-NL668-CN-30-00_Evaluation Board User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_ADP-NL668-CN-30-00_Evaluation+Board+User+Guide_V1.0.pdf",
+               "Fibocom_Module General Thermal Design Guide_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_Module+General+Thermal+Design+Guide_V1.1.pdf",
+               "FIBOCOM NL668-EAU&EU-MiniPCIe-10 Hardware Guide_V1.0.8.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-EAU&EU-MiniPCIe-10+Hardware+Guide_V1.0.8.pdf",
+               "Fibocom_NL668-EAU Series_Hardware Guide_V1.1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_NL668-EAU+Series_Hardware+Guide_V1.1.3.pdf",
+               "FIBOCOM NL668-CN-MiniPCIe-10 Series Hardware Guide_V1.1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-CN-MiniPCIe-10 Series+Hardware+Guide_V1.1.2.pdf",
+               "FIBOCOM NL668-LA-MiniPCIe-10 Series Hardware User Manual_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM NL668-LA-MiniPCIe-10+Series+Hardware User Manual_V1.0.2.pdf",
+               "FIBOCOM ADP-NL668-CN-00-00(PCB_V1.1 and later versions)Development Kit Guide_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+ADP-NL668-CN-00-00(PCB_V1.1+and+later+versions)Development+Kit+Guide_V1.0.2.pdf",
+               "FIBOCOM L610 & L716 & NL668 & MC116 Compatibility Design Guide_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+L610+&+L716+&+NL668+&+MC116+Compatibility+Design+Guide_V1.0.4.pdf",
+               "FIBOCOM NL668-EAU&EU-MiniPCIe-10 Hardware User Manual_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-EAU&EU-MiniPCIe-10+Hardware+User+Manual_V1.0.6.pdf",
+               "FIBOCOM NL668-EU Series Hardware Guide_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-EU+Series+Hardware+Guide_V1.0.3.pdf",
+               "FIBOCOM_Design_Guide_UART_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM_Design_Guide_UART_V1.1.pdf",
+               "FIBOCOM_NL668&NL668T&NL652&MC116&MG110_Sleep_Awakening_Guidance_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM_NL668&NL668T&NL652&MC116&MG110_Sleep_Awakening_Guidance_V1.0.5.pdf",
+               "FIBOCOM_NL668-JP Series Hardware Guide_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM_NL668-JP+Series+Hardware+Guide_V1.0.4.pdf",
+               "FIBOCOM_RF Antenna Design Application Note_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM_RF+Antenna+Design+Application+Note_V1.0.6.pdf",
+               "FIBOCOM NL668-AM-MiniPCIe-10 Hardware Guide_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-AM-MiniPCIe-10+Hardware+Guide_V1.0.3.pdf",
+               "Fibocom_NL668-AM Series_Hardware Guide_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_NL668-AM+Series_Hardware+Guide_V1.0.5.pdf",
+               "FIBOCOM ADP-NL668-LA Development Kit Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+ADP-NL668-LA+Development+Kit+Guide_V1.0.1.pdf",
+               "FIBOCOM NL668-JP series MiniPCIe Hardware User Manual_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM NL668-JP+series+MiniPCIe Hardware User Manual_V1.0.1.pdf",
+               "Related Resources":{
+                  "ADP-NL668 SERIES (EXCEPT OpenLinux module)_SCH-V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/ADP-NL668+SERIES+(EXCEPT+OpenLinux+module)_SCH-V1.3.pdf",
+                  "NL668 series (except OpenLinux module) Reference Design PADSVX2.0-V1.6.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/NL668+series+(except+OpenLinux+module)+Reference+Design+PADSVX2.0-V1.6.7z",
+                  "FIBOCOM NL668 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/FIBOCOM+NL668+3D+Module+Diagram.zip",
+                  "Fibocom NL668-MiniPCIe 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/Fibocom+NL668-MiniPCIe+3D+Module+Diagram.zip",
+                  "Fibocom_NL668-JP-30_thermal.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/Fibocom_NL668-JP-30_thermal.zip",
+                  "Note! Read me First.txt":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/Note!+Read+me+First.txt",
+                  "Applicable Instructions.txt":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/Applicable+Instructions.txt",
+                  "ADP-NL668 SERIES (EXCEPT OpenLinux module)_SCH-V1.3.sch":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/ADP-NL668+SERIES+(EXCEPT+OpenLinux+module)_SCH-V1.3.sch",
+                  "FIBOCOM NL668 M.2 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/FIBOCOM+NL668+M.2+3D+Module+Diagram.zip",
+                  "FIBOCOM NL668 Package.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Related+Resources/FIBOCOM+NL668+Package.zip"
+               },
+               "FIBOCOM NL668 LCC SMT Application Design Description_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668+LCC+SMT+Application+Design+Description_V1.0.3.pdf",
+               "FIBOCOM NL668-EAU-M.2 Series Hardware User Manual_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-EAU-M.2+Series+Hardware+User+Manual_V1.0.1.pdf",
+               "FIBOCOM NL668-LA-01 Hardware Guide_ ASKEY Customization_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM+NL668-LA-01+Hardware+Guide_+ASKEY+Customization_V1.0.0.pdf",
+               "FIBOCOM NL668-CN Open Series Hardware Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/FIBOCOM NL668-CN Open Series Hardware Guide_V1.0.1.pdf",
+               "Fibocom_ADP-NL668-CN-30-00_Development  Board User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_ADP-NL668-CN-30-00_Development++Board+User+Guide_V1.0.pdf",
+               "Fibocom_FW Updater Tool User Guide_V1.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/2-Hardware/Fibocom_FW+Updater+Tool+User+Guide_V1.4.pdf"
+            },
+            "4-For FAE":{
+               "FIBOCOM NL668-CN OPEN Peripheral Device List_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/4-For+FAE/FIBOCOM+NL668-CN+OPEN+Peripheral+Device+List_V1.0.0.pdf"
+            },
+            "3-Software":{
+               "Linux":{
+                  "Fibocom_Hostproxy Tool User Guide_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_Hostproxy+Tool+User+Guide_V2.4.pdf",
+                  "FIBOCOM NL668 Application Guide_ Linux GobiNet Driver Loading_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+NL668+Application+Guide_+Linux+GobiNet+Driver+Loading_V1.0.1.pdf",
+                  "Fibocom GobiNet Driver Integration and RmNet Dial Guide_Linux (Desktop)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom+GobiNet+Driver+Integration+and+RmNet+Dial+Guide_Linux+(Desktop)_V2.5.pdf",
+                  "FIBOCOM Linux gsmMuxd Client instructions_V1.0.2 .pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+Linux+gsmMuxd+Client+instructions_V1.0.2+.pdf",
+                  "Fibocom_QMI_WWAN_Driver_Integration and Dial Guide_Linux (Desktop)_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_QMI_WWAN_Driver_Integration+and+Dial+Guide_Linux+(Desktop)_V2.3.pdf",
+                  "Fibocom_Diaggrab_Capture_Log_Guide_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_Diaggrab_Capture_Log_Guide_V2.2.pdf",
+                  "Fibocom_Dump Log Tool User Guide_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_Dump+Log+Tool+User+Guide_V2.2.pdf",
+                  "Fibocom QMI Dial-up Tool User Guide_Linux_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom QMI+Dial-up+Tool+User+Guide_Linux_V2.6.pdf",
+                  "FIBOCOM NL668&MG110Linux_QMI_WWAN User Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+NL668&MG110Linux_QMI_WWAN+User+Guide_V1.0.1.pdf",
+                  "Fibocom_Qualcomm_GobiNet Driver Integration and RmNet Dial Guide_Linux (Desktop)_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_Qualcomm_GobiNet+Driver+Integration+and+RmNet+Dial+Guide_Linux+(Desktop)_V2.6.pdf",
+                  "Fibocom QMI_WWAN Driver Integration and Dial Guide_Linux (Desktop)_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom+QMI_WWAN+Driver+Integration+and+Dial+Guide_Linux+(Desktop)_V2.3.pdf",
+                  "Fibocom_NL668&MG110_ECM&NCM&RNDIS&MBIM Dial-up Integration Guide_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_NL668&MG110_ECM&NCM&RNDIS&MBIM+Dial-up+Integration+Guide_Linux_V1.1.pdf",
+                  "FIBOCOM Log Grab Guide_Android & Linux_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+Log+Grab+Guide_Android+&+Linux_V1.0.3.pdf",
+                  "Fibocom_ECM&NCM&RNDIS&MBIM Dial-up Integration Guide_Linux_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_ECM&NCM&RNDIS&MBIM+Dial-up+Integration+Guide_Linux_V1.0.pdf",
+                  "Related Resources":{
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip",
+                     "NL_WHQL_0605.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/NL_WHQL_0605.rar",
+                     "Fibocom-dial_Linux_Tool_V2.0.10.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/Fibocom-dial_Linux_Tool_V2.0.10.7z",
+                     "Fibocom_Linux_LogCapture_V1.1.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/Fibocom_Linux_LogCapture_V1.1.0.0.7z",
+                     "gsmMux.tar.bz2":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/gsmMux.tar.bz2",
+                     "Fibocom_Linux_GobiNet_Driver_V2.01.00.05.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/Fibocom_Linux_GobiNet_Driver_V2.01.00.05.7z",
+                     "ppp script":{
+                        "chat-modem-connect":{
+                           
+                        },
+                        "chat-modem-disconnect":{
+                           
+                        },
+                        "modem_NL668":{
+                           
+                        }
+                     },
+                     "Fibocom_QMI_WWAN_Driver_V1.0.5.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/Fibocom_QMI_WWAN_Driver_V1.0.5.7z",
+                     "Hostproxy_TooL_V1.0.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/Hostproxy_TooL_V1.0.2.rar",
+                     "CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip",
+                     "Fibocom_Linux_Firmware_Upgrade_V1.1.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/Fibocom_Linux_Firmware_Upgrade_V1.1.0.0.7z",
+                     "fibocom_qmi.tar.bz2":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Related+Resources/fibocom_qmi.tar.bz2"
+                  },
+                  "FIBOCOM NL668 &MG110 &NL668T Application Guide_ Linux GobiNet Driver Loading_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+NL668+&MG110+&NL668T+Application+Guide_+Linux+GobiNet+Driver+Loading_V1.0.3.pdf",
+                  "FIBOCOM NL668 Application Guide _Linux ECM Dial_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+NL668+Application+Guide+_Linux+ECM+Dial_V1.0.0.pdf",
+                  "Fibocom GobiNet Driver Integration and RmNet Dial Guide_Linux (Embedded)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom+GobiNet+Driver+Integration+and+RmNet+Dial+Guide_Linux+(Embedded)_V2.5.pdf",
+                  "FIBOCOM NL668&MG110 Application Guide_PPP Dial-up in Linux_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+NL668&MG110+Application+Guide_PPP+Dial-up+in+Linux_V1.0.5.pdf",
+                  "Fibocom_QMI_WWAN Driver Integration and Dial Guide_Linux (Embedded)_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/Fibocom_QMI_WWAN+Driver+Integration+and+Dial+Guide_Linux+(Embedded)_V2.4.pdf",
+                  "FIBOCOM Linux_QMI_WWAN User Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Linux/FIBOCOM+Linux_QMI_WWAN+User+Guide_V1.0.0.pdf"
+               },
+               "Chrome":{
+                  "Chrome OS Fibocom Tools User Guide V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Chrome/Chrome+OS+Fibocom+Tools+User+Guide+V1.0.6.pdf"
+               },
+               "General":{
+                  "Fibocom_MA510&NL668&MC108 Series FOTA Upgrade Guide_ V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/Fibocom_MA510&NL668&MC108+Series+FOTA+Upgrade+Guide_+V1.0.6.pdf",
+                  "FIBOCOM NL668&MC116&LC116&MG110&NL668T AT Commands User Manual_V3.5.23.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668&MC116&LC116&MG110&NL668T+AT+Commands+User+Manual_V3.5.23.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_SSL_V1.1.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_SSL_V1.1.6.pdf",
+                  "FIBOCOM AT Commands_LBS_V1.1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands_LBS_V1.1.0.pdf",
+                  "FIBOCOM AT Commands User Manual_ESIM_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_ESIM_V1.0.1.pdf",
+                  "FIBOCOM_NL668&NL652_Sleep_Awakening_Guidance_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM_NL668&NL652_Sleep_Awakening_Guidance_V1.0.3.pdf",
+                  "Fibocom_gsmMuxd Client User Guide_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/Fibocom_gsmMuxd+Client+User+Guide_Linux_V1.1.pdf",
+                  "FIBOCOM_NL668_AT_Commands_User_Manual_FFS_V1.0.8.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM_NL668_AT_Commands_User_Manual_FFS_V1.0.8.pdf",
+                  "FIBOCOM AT Commands User Manual_Sleep_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_Sleep_V1.0.4.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_HTTP_V1.2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_HTTP_V1.2.4.pdf",
+                  "FIBOCOM AT Commands User Manual_Private_QCOM_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_Private_QCOM_V1.0.5.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_TCP & UDP_V1.0.11.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_TCP+&+UDP_V1.0.11.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_HeartBeat_V1.1.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_HeartBeat_V1.1.4.pdf",
+                  "FIBOCOM AT Commands User Manual_GNSS_V1.0.8.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_GNSS_V1.0.8.pdf",
+                  "FIBOCOM_NL668_VoLTE_Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM_NL668_VoLTE_Guide_V1.0.0.pdf",
+                  "FIBOCOM AT Commands_TCP&UDP_V1.0.12.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands_TCP&UDP_V1.0.12.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_V3.5.17.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_V3.5.17.pdf",
+                  "FIBOCOM AT Commands User Manual_3GPP2_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_3GPP2_V1.0.6.pdf",
+                  "FIBOCOM AT Commands User Manual_Audio_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_Audio_V1.0.4.pdf",
+                  "FIBOCOM AT Commands User Manual_SIMLOCK_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_SIMLOCK_V1.0.5.pdf",
+                  "FIBOCOM NL668 MBIM_User_Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+MBIM_User_Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_FTP_V1.0.8.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_FTP_V1.0.8.pdf",
+                  "FIBOCOM_NL668&NL652&MC116&MG110_Sleep_Awakening_Guidance_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM_NL668&NL652&MC116&MG110_Sleep_Awakening_Guidance_V1.0.5.pdf",
+                  "FIBOCOM NL668 & MC116 Series AT Commands_MQTT_V1.2.8.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+Series+AT+Commands_MQTT_V1.2.8.pdf",
+                  "FIBOCOM NL668 AT Commands User Manual_ECALL_V1.1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+AT+Commands+User+Manual_ECALL_V1.1.2.pdf",
+                  "FIBOCOM AT Commands User Manual_Play_Record_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+AT+Commands+User+Manual_Play_Record_V1.0.1.pdf",
+                  "FIBOCOM NL668 AT Commands User Manual_FOTA_V2.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+AT+Commands+User+Manual_FOTA_V2.0.5.pdf",
+                  "FIBOCOM NL668 & MC116 & MG110 AT Commands_GNSS_V1.0.9-1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+&+MC116+&+MG110+AT+Commands_GNSS_V1.0.9-1.pdf",
+                  "FIBOCOM NL668 AT Commands User Manual_TTS_V1.1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+AT+Commands+User+Manual_TTS_V1.1.2.pdf",
+                  "FIBOCOM NL668 Application Business Process Manual_V2.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/General/FIBOCOM+NL668+Application+Business+Process+Manual_V2.0.0.pdf"
+               },
+               "Windows":{
+                  "FIBOCOM_NL668&NL652&MG110_Application_Guide_Windows_Dial_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/FIBOCOM_NL668&NL652&MG110_Application_Guide_Windows_Dial_V1.0.3.pdf",
+                  "Related Resources":{
+                     "FIBOCOM_MDM_MultiUpdater_V3.6.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/Related+Resources/FIBOCOM_MDM_MultiUpdater_V3.6.zip",
+                     "FbUSBDeviceSetup_v2.1.2.5.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/Related+Resources/FbUSBDeviceSetup_v2.1.2.5.zip",
+                     "FBLogCapTool.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/Related+Resources/FBLogCapTool.zip"
+                  },
+                  "FIBOCOM Qualcomm MultiUpdater Tool User Manual_V1.0.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/FIBOCOM+Qualcomm+MultiUpdater+Tool+User+Manual_V1.0.7.pdf",
+                  "FIBOCOM_Common_FW_Upgrade_User_Guide_V1.1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/FIBOCOM_Common_FW_Upgrade_User_Guide_V1.1.0.pdf",
+                  "fibocom fx160 fw upgrade instruction_v1.1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/fibocom+fx160+fw+upgrade+instruction_v1.1.0.pdf",
+                  "FIBOCOM USB Driver Installer User Guide_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/FIBOCOM+USB+Driver+Installer+User+Guide_V1.2.pdf",
+                  "FIBOCOM QXDM Tool User Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/FIBOCOM+QXDM+Tool+User+Guide_V1.0.0.pdf",
+                  "FIBOCOM_NL668&NL652_Private_Network_Data_Call_Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/FIBOCOM_NL668&NL652_Private_Network_Data_Call_Guide_V1.0.0.pdf",
+                  "Fibocom_FbLogCapTool_User_Guide_V1.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/Fibocom_FbLogCapTool_User_Guide_V1.7.pdf",
+                  "Fibocom_MDM_MultiUpdater_Tool_User_Guide_V1.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/Fibocom_MDM_MultiUpdater_Tool_User_Guide_V1.7.pdf",
+                  "Fibocom_Common_FW_Updater_Tool_User_Guide_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Windows/Fibocom_Common_FW_Updater_Tool_User_Guide_V1.3.pdf"
+               },
+               "Android":{
+                  "Fibocom_RIL_Integration_Guide_Android_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Fibocom_RIL_Integration_Guide_Android_V2.2.pdf",
+                  "FIBOCOM RIL FOAT Upgrade & Package Upgrade Instruction Manual_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/FIBOCOM+RIL+FOAT+Upgrade+&+Package+Upgrade+Instruction+Manual_V1.0.1.pdf",
+                  "Fibocom_Diaggrab Capture Log Guide_V2.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Fibocom_Diaggrab+Capture+Log+Guide_V2.1.pdf",
+                  "Related Resources":{
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip",
+                     "gps.tar.gz":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/gps.tar.gz",
+                     "NL_WHQL_0605.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/NL_WHQL_0605.rar",
+                     "Ril_V2.0.5.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/Ril_V2.0.5.zip",
+                     "gps.apk":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/gps.apk",
+                     "Fibocom_Upgrade_Tool_Android_Linux_V1.4.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/Fibocom_Upgrade_Tool_Android_Linux_V1.4.zip",
+                     "CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/Related+Resources/CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip"
+                  },
+                  "FIBOCOM Guidelines for the use of GPS Characteristics in Android_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/FIBOCOM+Guidelines+for+the+use+of+GPS+Characteristics+in+Android_V1.0.1.pdf",
+                  "FIBOCOM Android GPS Driver User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/FIBOCOM+Android+GPS+Driver+User+Guide_V1.0.pdf",
+                  "FIBOCOM NL Series Android RIL Adaptation Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Android/FIBOCOM+NL+Series+Android+RIL+Adaptation+Guide_V1.0.1.pdf"
+               },
+               "Open":{
+                  "FIBOCOM NL668 Open Series GPIO User Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+GPIO+User+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series SDK Technology and Resource Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SDK+Technology+and+Resource+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series SDK Guide_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SDK+Guide_V1.0.2.pdf",
+                  "FIBOCOM NL668 Open Series SPI User Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SPI+User+Guide_V1.0.1.pdf",
+                  "FIBOCOM NL668 Open Series ADC User Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+ADC+User+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series I2C User Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+I2C+User+Guide_V1.0.1.pdf",
+                  "FIBOCOM NL668 Open Series UART User Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+UART+User+Guide_V1.0.1.pdf",
+                  "FIBOCOM NL668 Open Series Differential Package Tool User Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+Differential+Package+Tool+User+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series SDK SIM Interface Configuration Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SDK+SIM+Interface+Configuration+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series SMS Interface Configuration Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SMS+Interface+Configuration+Guide_V1.0.0.pdf",
+                  "Fibocom_NL668_Open Series_GPIO Function Reuse Table_V1.1 (1).xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/Fibocom_NL668_Open+Series_GPIO+Function+Reuse+Table_V1.1+(1).xlsx",
+                  "FIBOCOM NL668 Open Series SDK DM Interface Configuration Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SDK+DM+Interface+Configuration+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series Shutdown and Restart Interface Configuration Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+Shutdown+and+Restart+Interface+Configuration+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series SDK DATA Interface Configuration Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+SDK+DATA+Interface+Configuration+Guide_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open Series NW Interface Configuration Guide_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+NW+Interface+Configuration+Guide_V1.0.0.pdf",
+                  "Fibocom_NL668_Open_Quick Start_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/Fibocom_NL668_Open_Quick+Start_V1.1.pdf",
+                  "Fibocom_NL668_Guide to Make Open_FOTA Differential Package_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/Fibocom_NL668_Guide+to+Make+Open_FOTA+Differential+Package_V1.1.pdf",
+                  "Fibocom_NL668 Open_PCM User Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/Fibocom_NL668+Open_PCM+User+Guide_V1.0.pdf",
+                  "FIBOCOM NL668 Open Series Log Print API Development Guide_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/FIBOCOM+NL668+Open+Series+Log+Print+API+Development+Guide_V1.0.1.pdf",
+                  "Fibocom_NL668_OpenSDK Quick Start_V1.0 .pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/3-Software/Open/Fibocom_NL668_OpenSDK+Quick+Start_V1.0+.pdf"
+               }
+            },
+            "5-Test Report":{
+               "Fibocom_NL668-JP-10_Baseband RF Test Report_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/5-Test+Report/Fibocom_NL668-JP-10_Baseband+RF+Test+Report_V1.0.zip",
+               "Fibocom_NL668-JP-30_Baseband RF Test Report_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/5-Test+Report/Fibocom_NL668-JP-30_Baseband+RF+Test+Report_V1.0.zip",
+               "Fibocom_NL668-JP-10-MiniPCIe-10_Baseband  RF Test Report_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/5-Test+Report/Fibocom_NL668-JP-10-MiniPCIe-10_Baseband++RF+Test+Report_V1.0.zip",
+               "Fibocom_NL668-EAU-05_Baseband  RF Test Report_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/5-Test+Report/Fibocom_NL668-EAU-05_Baseband++RF+Test+Report_V1.0.zip",
+               "Fibocom_NL668-JP-05-MiniPCIe-10_Baseband RF Test Report_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/5-Test+Report/Fibocom_NL668-JP-05-MiniPCIe-10_Baseband+RF+Test+Report_V1.0.zip",
+               "Fibocom_NL668-JP-05_Baseband RF Test Report_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/5-Test+Report/Fibocom_NL668-JP-05_Baseband+RF+Test+Report_V1.0.zip"
+            },
+            "1-Overview":{
+               "NL668-CN":{
+                  "Fibocom_NL668-CN-02_MiniPCIe Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-02_MiniPCIe+Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-01_MiniPCIe Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-01_MiniPCIe+Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-02_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-02_Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-05_MiniPCIe Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-05_MiniPCIe+Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-05_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-05_Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-00_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-00_Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-01_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-01_Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-00_MiniPCIe Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-00_MiniPCIe+Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-03_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-03_Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-CN-04_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-CN/Fibocom_NL668-CN-04_Datasheet_V1.0.pdf"
+               },
+               "NL668-AM":{
+                  "Fibocom_NL668-AM_Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-AM/Fibocom_NL668-AM_Datasheet_V1.1.pdf",
+                  "Fibocom_NL668-AM-30_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-AM/Fibocom_NL668-AM-30_datasheet_V1.0.pdf",
+                  "Fibocom_NL668-AM-00-11_M.2_Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-AM/Fibocom_NL668-AM-00-11_M.2_Datasheet_V1.0.pdf",
+                  "Fibocom NL668-AM MiniPCIe Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-AM/Fibocom+NL668-AM+MiniPCIe+Datasheet_V1.1.pdf",
+                  "Fibocom_NL668-AM-30_MiniPCIe datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-AM/Fibocom_NL668-AM-30_MiniPCIe+datasheet_V1.0.pdf"
+               },
+               "Certification Documents":{
+                  "NL668 00_Series_Certification Documents":{
+                     "NL668-CN":{
+                        "FIBOCOM NL668-CN Certification.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN/FIBOCOM+NL668-CN+Certification.zip"
+                     },
+                     "NL668-AM-00 M.2":{
+                        "FIBOCOM NL668-AM-00 M.2 Certificate.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-AM-00+M.2/FIBOCOM+NL668-AM-00+M.2+Certificate.zip"
+                     },
+                     "NL668-AM":{
+                        "FIBOCOM NL668-AM Certification Documents.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-AM/FIBOCOM+NL668-AM+Certification+Documents.zip"
+                     },
+                     "NL668-CN-80(OpenLinux)":{
+                        "CCC":{
+                           "NL668 恒昌盛CCC证书中文版.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN-80(OpenLinux)/CCC/NL668+恒昌盛CCC证书中文版.pdf",
+                           "NL668 恒昌盛CCC证书英文版.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN-80(OpenLinux)/CCC/NL668+恒昌盛CCC证书英文版.pdf"
+                        },
+                        "CE RED":{
+                           "NL668 CE RED cert.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN-80(OpenLinux)/CE+RED/NL668+CE+RED+cert.pdf"
+                        },
+                        "SRRC":{
+                           "NL668 SRRC证书.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN-80(OpenLinux)/SRRC/NL668+SRRC证书.pdf"
+                        },
+                        "NAL":{
+                           "NL668 NAL证书.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN-80(OpenLinux)/NAL/NL668+NAL证书.pdf"
+                        },
+                        "RoHS":{
+                           "NL668 RoHS报告.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-CN-80(OpenLinux)/RoHS/NL668+RoHS报告.pdf"
+                        }
+                     },
+                     "NL668-EAU":{
+                        "temporary":{
+                           "CE RED":{
+                              "NL668-EAU_TIMCO RED_1177-210034.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/CE+RED/NL668-EAU_TIMCO+RED_1177-210034.pdf"
+                           },
+                           "KC":{
+                              "NL668-EAU_Cert_RF_EMC_South Korea.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/KC/NL668-EAU_Cert_RF_EMC_South+Korea.pdf"
+                           },
+                           "GCF":{
+                              "NL668-EAU GCF Certificate.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/GCF/NL668-EAU+GCF+Certificate.pdf",
+                              "Thumbs.db":{
+                                 
+                              }
+                           },
+                           "RCM":{
+                              "NL668-EAU RCM.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/RCM/NL668-EAU+RCM.pdf"
+                           },
+                           "HF":{
+                              "NL668-EAU HF.PDF":{
+                                 
+                              },
+                              "Thumbs.db":{
+                                 
+                              }
+                           },
+                           "RoHS":{
+                              "NL668-EAU&NL668-EU RoHS.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/RoHS/NL668-EAU&NL668-EU+RoHS.pdf"
+                           },
+                           "Anatel_Brazil":{
+                              "Anatel ID":{
+                                 "anatel ID.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/Anatel_Brazil/Anatel+ID/anatel ID.pdf"
+                              },
+                              "CoH EN.PDF":{
+                                 
+                              }
+                           },
+                           "NCC":{
+                              "NL668-EAU NCC证书.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/temporary/NCC/NL668-EAU+NCC证书.pdf"
+                           }
+                        },
+                        "FIBOCOM NL668-EAU Certification.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EAU/FIBOCOM+NL668-EAU+Certification.zip"
+                     },
+                     "NL668-LA":{
+                        "FIBOCOM NL668-LA Certification Documents.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-LA/FIBOCOM+NL668-LA+Certification+Documents.zip"
+                     },
+                     "NL668-JP":{
+                        "FIBOCOM NL668-JP Certification Documents.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-JP/FIBOCOM+NL668-JP+Certification+Documents.zip"
+                     },
+                     "NL668-EU":{
+                        "FIBOCOM NL668-EU Certification Documents.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+00_Series_Certification+Documents/NL668-EU/FIBOCOM+NL668-EU+Certification+Documents.zip"
+                     }
+                  },
+                  "NL668 05&10&30&40_Series_Certification Documents":{
+                     "NL668-EAU":{
+                        "CE":{
+                           "3933-21_TIMCO RED EU-Type Examination Certificate rev1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-EAU/CE/3933-21_TIMCO+RED+EU-Type+Examination+Certificate+rev1.pdf"
+                        },
+                        "UKCA":{
+                           "1452-22_TIMCO RER UK-Type Examination Certificate.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-EAU/UKCA/1452-22_TIMCO+RER+UK-Type+Examination+Certificate.pdf"
+                        },
+                        "GCF":{
+                           "NL668-EAU_GCF.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-EAU/GCF/NL668-EAU_GCF.pdf"
+                        },
+                        "RCM":{
+                           "ACMA DoC.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-EAU/RCM/ACMA+DoC.pdf"
+                        }
+                     },
+                     "NL668-LA":{
+                        "ANATEL":{
+                           "Brazil CoC_Fibocom NL668-LA - Expires 05 August 2023..pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-LA/ANATEL/Brazil+CoC_Fibocom+NL668-LA+-+Expires+05+August+2023..pdf",
+                           "Brazil CoH_Fibocom NL668-LA - Check expiration in CoC.PDF":{
+                              
+                           }
+                        },
+                        "FCC":{
+                           "0734-22 Grant.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-LA/FCC/0734-22+Grant.pdf"
+                        }
+                     },
+                     "NL668-JP":{
+                        "TELEC":{
+                           "Japan MIC Certificate (218-458961).pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-JP/TELEC/Japan+MIC+Certificate+(218-458961).pdf"
+                        },
+                        "JATE":{
+                           "CSTT210008_Fibocom_NL668-JP 20210204.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-JP/JATE/CSTT210008_Fibocom_NL668-JP+20210204.pdf"
+                        }
+                     },
+                     "NL668-EU":{
+                        "CE":{
+                           "0752-22_TIMCO RED EU-Type Examination Certificate Rev1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-EU/CE/0752-22_TIMCO+RED+EU-Type+Examination+Certificate+Rev1.pdf"
+                        },
+                        "UKCA":{
+                           "3367-21_TIMCO RER UK-Type Examination Certificate.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/Certification+Documents/NL668+05&10&30&40_Series_Certification+Documents/NL668-EU/UKCA/3367-21_TIMCO+RER+UK-Type+Examination+Certificate.pdf"
+                        }
+                     }
+                  }
+               },
+               "NL668-EAU":{
+                  "Fibocom NL668-EAU Datasheet_V1.3 (1).pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EAU/Fibocom+NL668-EAU+Datasheet_V1.3+(1).pdf",
+                  "Fibocom_NL668-EAU-00_MiniPCIe datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EAU/Fibocom_NL668-EAU-00_MiniPCIe+datasheet_V1.0.pdf",
+                  "Fibocom_NL668-EAU-05_M.2datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EAU/Fibocom_NL668-EAU-05_M.2datasheet_V1.0.pdf",
+                  "Fibocom_NL668-EAU-00_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EAU/Fibocom_NL668-EAU-00_datasheet_V1.0.pdf",
+                  "Fibocom_NL668-EAU_MiniPCIe_Datasheet_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EAU/Fibocom_NL668-EAU_MiniPCIe_Datasheet_V1.2.pdf"
+               },
+               "NL668-LA":{
+                  "Fibocom_NL668-LA-00_MiniPCIe datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-LA/Fibocom_NL668-LA-00_MiniPCIe+datasheet_V1.0.pdf",
+                  "Fibocom_NL668-LA-30_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-LA/Fibocom_NL668-LA-30_datasheet_V1.0.pdf",
+                  "Fibocom_NL668-LA-01_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-LA/Fibocom_NL668-LA-01_datasheet_V1.0.pdf",
+                  "Fibocom_NL668-LA-40_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-LA/Fibocom_NL668-LA-40_datasheet_V1.0.pdf",
+                  "Fibocom_NL668-LA_MiniPCIe Datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-LA/Fibocom_NL668-LA_MiniPCIe+Datasheet_V1.0.pdf",
+                  "Fibocom_NL668-LA_Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-LA/Fibocom_NL668-LA_Datasheet_V1.1.pdf"
+               },
+               "NL668-JP":{
+                  "Fibocom_NL668-JP-00_MiniPCIe datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-JP/Fibocom_NL668-JP-00_MiniPCIe+datasheet_V1.0.pdf",
+                  "Fibocom_NL668-JP_MiniPCIe_Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-JP/Fibocom_NL668-JP_MiniPCIe_Datasheet_V1.1.pdf",
+                  "Fibocom _NL668-JP_Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-JP/Fibocom+_NL668-JP_Datasheet_V1.1.pdf",
+                  "Fibocom_NL668-JP-00_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-JP/Fibocom_NL668-JP-00_datasheet_V1.0.pdf"
+               },
+               "NL668-EU":{
+                  "Fibocom_NL668-EU_Datasheet_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EU/Fibocom_NL668-EU_Datasheet_V1.3.pdf",
+                  "Fibocom_NL668-EU-00_MiniPCIe datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EU/Fibocom_NL668-EU-00_MiniPCIe+datasheet_V1.0.pdf",
+                  "Fibocom_NL668-EAU_MiniPCIe Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EU/Fibocom_NL668-EAU_MiniPCIe+Datasheet_V1.1.pdf",
+                  "Fibocom_NL668-EU_MiniPCIe_Datasheet_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/En/1-Overview/NL668-EU/Fibocom_NL668-EU_MiniPCIe_Datasheet_V1.3.pdf"
+               }
+            }
+         },
+         "Zh":{
+            "2-硬件":{
+               "FIBOCOM NL668-LA-MiniPCIe-10 系列硬件用户手册_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM NL668-LA-MiniPCIe-10 系列硬件用户手册_V1.0.2.pdf",
+               "FIBOCOM NL668-AM系列硬件用户手册_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-AM系列硬件用户手册_V1.0.5.pdf",
+               "Fibocom_NL668_热设计指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/Fibocom_NL668_热设计指南_V1.0.pdf",
+               "FIBOCOM EVK-GT8230-NL 使用指南_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+EVK-GT8230-NL+使用指南_V1.0.6.pdf",
+               "FIBOCOM NL668-AM-MiniPCIe-10 系列硬件指南_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-AM-MiniPCIe-10+系列硬件指南_V1.0.3.pdf",
+               "FIBOCOM_NL668_开发板操作手册_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM_NL668_开发板操作手册_V1.0.0.pdf",
+               "FIBOCOM ADP-NL668-CN-00-00(PCB_V1.1及更高版本)开发板使用说明_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+ADP-NL668-CN-00-00(PCB_V1.1及更高版本)开发板使用说明_V1.0.2.pdf",
+               "FIBOCOM ADP-NL668-LA 开发板使用说明_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+ADP-NL668-LA+开发板使用说明_V1.0.1.pdf",
+               "FIBOCOM NL668-LA系列 硬件指南_V1.0.9.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-LA系列+硬件指南_V1.0.9.pdf",
+               "FIBOCOM L610 & L716 & NL668 & MC116系列 兼容设计指南_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+L610+&+L716+&+NL668+&+MC116系列+兼容设计指南_V1.0.3.pdf",
+               "FIBOCOM_设计指南_UART_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM_设计指南_UART_V1.1.pdf",
+               "相关资源":{
+                  "ADP-NL668 SERIES (EXCEPT OpenLinux module)_SCH-V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/ADP-NL668+SERIES+(EXCEPT+OpenLinux+module)_SCH-V1.3.pdf",
+                  "FIBOCOM NL668 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/FIBOCOM+NL668+3D+Module+Diagram.zip",
+                  "Fibocom NL668-MiniPCIe 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/Fibocom+NL668-MiniPCIe+3D+Module+Diagram.zip",
+                  "FIBOCOM NL668 Open Series Reference Design_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/FIBOCOM+NL668+Open+Series+Reference+Design_V1.0.zip",
+                  "32 SCH PCB封装图":{
+                     "适用说明.txt":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/适用说明.txt",
+                     "新版封装":{
+                        "NL668 New_Package_PADS VX.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/新版封装/NL668+New_Package_PADS+VX.7z",
+                        "NL668 New_Package_AD16.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/新版封装/NL668+New_Package_AD16.7z",
+                        "NL668 New_Package_PADS9.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/新版封装/NL668+New_Package_PADS9.0.7z",
+                        "NL668 New_Package_Protel.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/新版封装/NL668+New_Package_Protel.7z"
+                     },
+                     "旧版封装":{
+                        "NL668_Package_AD16-V1.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/旧版封装/NL668_Package_AD16-V1.2.rar",
+                        "NL668_Package_PADS VX-V1.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/旧版封装/NL668_Package_PADS+VX-V1.2.rar",
+                        "NL668_Package_PADS 9.0-V1.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/旧版封装/NL668_Package_PADS+9.0-V1.2.rar",
+                        "NL668_Package_Protel-V1.2.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/32+SCH+PCB封装图/旧版封装/NL668_Package_Protel-V1.2.7z"
+                     }
+                  },
+                  "ADP-NL668 SERIES (EXCEPT OpenLinux module)_SCH-V1.3.sch":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/ADP-NL668+SERIES+(EXCEPT+OpenLinux+module)_SCH-V1.3.sch",
+                  "FIBOCOM NL668 M.2 3D Module Diagram.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/FIBOCOM+NL668+M.2+3D+Module+Diagram.zip",
+                  "FIBOCOM NL668 Evaluation Kit Circuit Diagram_PADS VX.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/相关资源/FIBOCOM+NL668+Evaluation+Kit+Circuit+Diagram_PADS+VX.zip"
+               },
+               "FIBOCOM_NL668-EAU-M.2系列硬件用户手册_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM_NL668-EAU-M.2系列硬件用户手册_V1.0.0.pdf",
+               "FIBOCOM NL668-EAU系列 硬件指南_V1.1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-EAU系列+硬件指南_V1.1.3.pdf",
+               "Fibocom_FW Updater Tool用户指导手册_V1.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/Fibocom_FW+Updater+Tool用户指导手册_V1.4.pdf",
+               "FIBOCOM NL668 LCC SMT应用设计说明_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668+LCC+SMT应用设计说明_V1.0.3.pdf",
+               "FIBOCOM SIM应用设计说明_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+SIM应用设计说明_V1.0.6.pdf",
+               "Fibocom_ADP-NL668-CN-30-00_开发板使用指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/Fibocom_ADP-NL668-CN-30-00_开发板使用指南_V1.0.pdf",
+               "FIBOCOM NL668-EU系列硬件用户手册_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-EU系列硬件用户手册_V1.0.3.pdf",
+               "FIBOCOM UART应用设计说明_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+UART应用设计说明_V1.0.4.pdf",
+               "FIBOCOM RF Antenna 应用设计说明_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+RF+Antenna+应用设计说明_V1.0.6.pdf",
+               "FIBOCOM NL668-EAU&EU-MiniPCIe-10 系列硬件用户手册_V1.0.8.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-EAU&EU-MiniPCIe-10+系列硬件用户手册_V1.0.8.pdf",
+               "FIBOCOM NL668-EAU-M.2系列硬件用户手册_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-EAU-M.2系列硬件用户手册_V1.0.1.pdf",
+               "FIBOCOM NL668-CN系列硬件指南_V1.1.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-CN系列硬件指南_V1.1.6.pdf",
+               "FIBOCOM_NL668&NL668T&NL652&MC116&MG110_应用指南_休眠唤醒_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM_NL668&NL668T&NL652&MC116&MG110_应用指南_休眠唤醒_V1.0.6.pdf",
+               "FIBOCOM NL668-CN-M.2系列 硬件指南_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-CN-M.2系列+硬件指南_V1.0.2.pdf",
+               "FIBOCOM NL668-JP系列MiniPCIe硬件用户手册_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM NL668-JP系列MiniPCIe硬件用户手册_V1.0.1.pdf",
+               "NL668 Open Series Reference Design_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/NL668+Open+Series+Reference+Design_V1.0.pdf",
+               "FIBOCOM NL668-CN Open系列硬件指南_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM NL668-CN Open系列硬件指南_V1.0.1.pdf",
+               "FIBOCOM NL668-CN-MiniPCIe-10系列硬件指南_V1.1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-CN-MiniPCIe-10系列硬件指南_V1.1.3.pdf",
+               "FIBOCOM NL668-757S-10 硬件用户手册电力版_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-757S-10+硬件用户手册电力版_V1.0.0.pdf",
+               "FIBOCOM NL668-JP系列硬件指南_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/2-硬件/FIBOCOM+NL668-JP系列硬件指南_V1.0.4.pdf"
+            },
+            "5-测试":{
+               "NL668-LA-30 基带 射频测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-LA-30+基带+射频测试报告.zip",
+               "Fibocom_NL668-EAU-10_硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-EAU-10_硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-21_硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-21_硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-JP-05_基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-JP-05_基带射频测试报告_V1.0.zip",
+               "Fibocom_NL668-JP-10_基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-JP-10_基带射频测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-22-MiniPCIe-10_硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-22-MiniPCIe-10_硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-30_硬件测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-30_硬件测试报告.zip",
+               "Fibocom_NL668-CN-24_硬件测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-24_硬件测试报告.zip",
+               "NL668-AM-05 硬件测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-AM-05+硬件测试报告.zip",
+               "NL668-CN-02-M2-10 硬件测试报告_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-CN-02-M2-10+硬件测试报告_V1.0.0.pdf",
+               "NL668-CN-06 射频测试报告_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-CN-06+射频测试报告_V1.0.0.pdf",
+               "NL668-EAU-10-Minipcie-10硬件测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-EAU-10-Minipcie-10硬件测试报告.zip",
+               "Fibocom_NL668-CN-30-MiniPCIe-10_基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-30-MiniPCIe-10_基带射频测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-21-MiniPCIe-10_硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-21-MiniPCIe-10_硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-EAU-05 基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-EAU-05+基带射频测试报告_V1.0.zip",
+               "Fibocom_ NL668-JP-10_工业标准可靠性测试报告_LA2112005_LR2203009_20220329.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_+NL668-JP-10_工业标准可靠性测试报告_LA2112005_LR2203009_20220329.pdf",
+               "Fibocom_NL668-JP-05-MiniPCIe-10_基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-JP-05-MiniPCIe-10_基带射频测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-30_ 工业标准可靠性测试报告_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-30_+工业标准可靠性测试报告_V1.0.pdf",
+               "NL668-CN-06 基带测试报告_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-CN-06+基带测试报告_V1.0.0.pdf",
+               "NL668-LA-10 基带 射频测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-LA-10+基带+射频测试报告.zip",
+               "NL668-LA-31 基带 射频测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-LA-31+基带+射频测试报告.zip",
+               "Fibocom_NL668-CN-23_基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-23_基带射频测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-32_硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-32_硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-EAU-30 硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-EAU-30+硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-JP-10-MiniPCIe-10_基带 射频 测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-JP-10-MiniPCIe-10_基带+射频+测试报告_V1.0.zip",
+               "NL668-CN-10-MiniPCIe-10 硬件测试报告_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-CN-10-MiniPCIe-10+硬件测试报告_V1.1.pdf",
+               "NL668-LA-10-Minipcie-10硬件测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-LA-10-Minipcie-10硬件测试报告.zip",
+               "Fibocom_NL668-EAU-05 硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-EAU-05+硬件测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-24-MiniPCIe-10_基带射频测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-24-MiniPCIe-10_基带射频测试报告_V1.0.zip",
+               "Fibocom_NL668-CN-24_工业标准可靠性测试报告_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-24_工业标准可靠性测试报告_V1.0.pdf",
+               "Fibocom_NL668-LA-31_硬件测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-LA-31_硬件测试报告_V1.0.zip",
+               "NL668-LA-05 基带 射频测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-LA-05+基带+射频测试报告.zip",
+               "NL668-AM-10硬件测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/NL668-AM-10硬件测试报告.zip",
+               "Fibocom_NL668-CN-23-MiniPCIe-10 基带射频测试报告.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-CN-23-MiniPCIe-10+基带射频测试报告.zip",
+               "Fibocom_NL668-JP-30 射频 基带测试报告_V1.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/5-测试/Fibocom_NL668-JP-30+射频+基带测试报告_V1.0.zip"
+            },
+            "4-For FAE":{
+               "34 替代注意事项":{
+                  "NL668替代NL660在软件方面的注意事项":{
+                     "NLL668替换NL660说明.txt":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/34+替代注意事项/NL668替代NL660在软件方面的注意事项/NLL668替换NL660说明.txt",
+                     "NL660有而NL668没有的AT指令.docx":{
+                        
+                     }
+                  },
+                  "NL668替代NL660 EC20 R2.0在硬件方面的注意事项":{
+                     "NL668 miniPCIe与NL660 miniPCIe对比_20180515.xls":{
+                        
+                     },
+                     "NL668 与移远EC20 LCC对比_20180516.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/34+替代注意事项/NL668替代NL660+EC20+R2.0在硬件方面的注意事项/NL668+与移远EC20+LCC对比_20180516.xlsx",
+                     "NL668 miniPCIe与移远EC20 R2.0 miniPCIe对比_20180515.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/34+替代注意事项/NL668替代NL660+EC20+R2.0在硬件方面的注意事项/NL668+miniPCIe与移远EC20+R2.0+miniPCIe对比_20180515.xlsx"
+                  }
+               },
+               "NL668 LCC+LGA系列模块_PCBchecklist表_V1.0.1.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/NL668+LCC+LGA系列模块_PCBchecklist表_V1.0.1.xlsx",
+               "NL668 LCC+LGA系列模块_原理图checklist表_V1.0.1.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/NL668+LCC+LGA系列模块_原理图checklist表_V1.0.1.xlsx",
+               "FIBOCOM NL668-CN OPEN外设清单_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/FIBOCOM+NL668-CN+OPEN外设清单_V1.0.0.pdf",
+               "NL668 mini PCIe_PCB checklist表_V1.0.0.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/NL668+mini+PCIe_PCB+checklist表_V1.0.0.xlsx",
+               "NL668 mini PCIe_原理图checklist表_V1.0.0.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/4-For+FAE/NL668+mini+PCIe_原理图checklist表_V1.0.0.xlsx"
+            },
+            "3-软件":{
+               "Linux":{
+                  "FIBOCOM Linux下QMI_WWAN拨号应用指南_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+Linux下QMI_WWAN拨号应用指南_V1.0.2.pdf",
+                  "Fibocom_高通_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_高通_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.6.pdf",
+                  "FIBOCOM NL668应用指南_Linux下GobiNet驱动加载_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668应用指南_Linux下GobiNet驱动加载_V1.0.4.pdf",
+                  "Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(桌面)_V2.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(桌面)_V2.3.pdf",
+                  "FIBOCOM NL668应用指南_Linux下ECM拨号_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668应用指南_Linux下ECM拨号_V1.0.3.pdf",
+                  "FIBOCOM NL668 Application Guide_PPP Dial-up in Linux_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668+Application+Guide_PPP+Dial-up+in+Linux_V1.0.4.pdf",
+                  "Fibocom_NL668&MG110_ECM&NCM&RNDIS&MBIM拨号集成指导_Linux_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_NL668&MG110_ECM&NCM&RNDIS&MBIM拨号集成指导_Linux_V1.1.pdf",
+                  "Fibocom_QMI拨号工具使用指南_Linux_V2.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_QMI拨号工具使用指南_Linux_V2.6.pdf",
+                  "相关资源":{
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip",
+                     "Fibocom_Linux_LogCapture_V1.1.0.0.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Fibocom_Linux_LogCapture_V1.1.0.0.7z",
+                     "gsmMux.tar.bz2":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/gsmMux.tar.bz2",
+                     "QMI-SDK及开发指导.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/QMI-SDK及开发指导.zip",
+                     "Fibocom_Upgrade_Tool_Android_Linux_V1.4.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Fibocom_Upgrade_Tool_Android_Linux_V1.4.zip",
+                     "fibocom_qmi.tar.bz2":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/fibocom_qmi.tar.bz2",
+                     "ppp脚本":{
+                        "chat-modem-connect":{
+                           
+                        },
+                        "chat-modem-disconnect":{
+                           
+                        },
+                        "modem_NL668":{
+                           
+                        }
+                     },
+                     "CBB_Linux_Host_Upgrade_Tool_Android_Linux_V1.3.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/CBB_Linux_Host_Upgrade_Tool_Android_Linux_V1.3.7z",
+                     "Fibocom-dial_Linux_Tool_V2.0.10.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Fibocom-dial_Linux_Tool_V2.0.10.7z",
+                     "Fibocom_Linux_FWUpdate_V1.0.0.8.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Fibocom_Linux_FWUpdate_V1.0.0.8.7z",
+                     "Fibocom_Linux_GobiNet_Driver_V2.01.00.05.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Fibocom_Linux_GobiNet_Driver_V2.01.00.05.7z",
+                     "Fibocom_QMI_WWAN_Driver_V1.0.5.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Fibocom_QMI_WWAN_Driver_V1.0.5.7z",
+                     "Hostproxy_TooL_V1.0.2.rar":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/Hostproxy_TooL_V1.0.2.rar",
+                     "CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/相关资源/CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip"
+                  },
+                  "Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(嵌入式)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(嵌入式)_V2.5.pdf",
+                  "FIBOCOM NL668&MG110&NL668T 应用指南_Linux下GobiNet驱动加载_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668&MG110&NL668T+应用指南_Linux下GobiNet驱动加载_V1.0.6.pdf",
+                  "Fibocom_ECM&NCM&RNDIS&MBIM拨号集成指导_Linux_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_ECM&NCM&RNDIS&MBIM拨号集成指导_Linux_V1.0.pdf",
+                  "FIBOCOM Linux gsmMuxd客户端使用说明_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+Linux+gsmMuxd客户端使用说明_V1.0.2.pdf",
+                  "Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_GobiNet驱动集成及RmNet拨号指南_Linux(桌面)_V2.5.pdf",
+                  "Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(嵌入式)_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_QMI_WWAN驱动集成及拨号指南_Linux(嵌入式)_V2.4.pdf",
+                  "FIBOCOM NL668应用指南_Linux下PPP拨号_v1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668应用指南_Linux下PPP拨号_v1.0.0.pdf",
+                  "FIBOCOM LOG抓取指南_Android & Linux_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+LOG抓取指南_Android+&+Linux_V1.0.3.pdf",
+                  "FIBOCOM NL668&MG110Linux下QMI_WWAN拨号应用指南_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668&MG110Linux下QMI_WWAN拨号应用指南_V1.0.3.pdf",
+                  "FIBOCOM NL668&MG110应用指南_Linux下GobiNet驱动加载_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668&MG110应用指南_Linux下GobiNet驱动加载_V1.0.5.pdf",
+                  "Fibocom_Dump Log工具使用指南_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_Dump+Log工具使用指南_V2.2.pdf",
+                  "Fibocom_Hostproxy工具使用指导_V2.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_Hostproxy工具使用指导_V2.4.pdf",
+                  "FIBOCOM NL668&MG110应用指南_Linux下PPP拨号_v1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/FIBOCOM+NL668&MG110应用指南_Linux下PPP拨号_v1.0.1.pdf",
+                  "Fibocom_Diaggrab抓取Log指南_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Linux/Fibocom_Diaggrab抓取Log指南_V2.2.pdf"
+               },
+               "Windows":{
+                  "FIBOCOM NL668系统升级_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM+NL668系统升级_V1.0.1.pdf",
+                  "FIBOCOM USB驱动安装包用户指导手册_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM+USB驱动安装包用户指导手册_V1.2.pdf",
+                  "Fibocom_通用FW_Updater工具_用户指导手册_V1.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/Fibocom_通用FW_Updater工具_用户指导手册_V1.5.pdf",
+                  "相关资源":{
+                     "Fibocom_Windows_USB_Drivers_V1.1.2.12.7z":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/相关资源/Fibocom_Windows_USB_Drivers_V1.1.2.12.7z",
+                     "FIBOCOM_MDM_MultiUpdater_V3.6.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/相关资源/FIBOCOM_MDM_MultiUpdater_V3.6.zip",
+                     "FbUSBDeviceSetup_v2.1.2.5.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/相关资源/FbUSBDeviceSetup_v2.1.2.5.zip",
+                     "FBLogCapTool.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/相关资源/FBLogCapTool.zip",
+                     "FbUSBDriverSetup 1.1.2.12_CheckList.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/相关资源/FbUSBDriverSetup+1.1.2.12_CheckList.xlsx"
+                  },
+                  "FIBOCOM_NL668_757S_应用指南_Windows下拨号指南_V1.0.4.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM_NL668_757S_应用指南_Windows下拨号指南_V1.0.4.pdf",
+                  "FIBOCOM_NL668&NL652&MG110_应用指南_Windows下拨号指南_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM_NL668&NL652&MG110_应用指南_Windows下拨号指南_V1.0.3.pdf",
+                  "FIBOCOM_NL668&NL652_应用指南_Windows下拨号指南_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM_NL668&NL652_应用指南_Windows下拨号指南_V1.0.2.pdf",
+                  "FIBOCOM_Qualcomm MultiUpdater_工具操作指南_V1.0.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM_Qualcomm+MultiUpdater_工具操作指南_V1.0.7.pdf",
+                  "Fibocom_FbLogCap_Tool_使用指南_V1.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/Fibocom_FbLogCap_Tool_使用指南_V1.5.pdf",
+                  "FIBOCOM_NL668&NL652_专网拨号流程指导_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM_NL668&NL652_专网拨号流程指导_V1.0.1.pdf",
+                  "Fibocom_FbLogCapTool_用户指导手册_V1.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/Fibocom_FbLogCapTool_用户指导手册_V1.7.pdf",
+                  "Fibocom_MDM_MultiUpdater_工具使用指南_V1.7.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/Fibocom_MDM_MultiUpdater_工具使用指南_V1.7.pdf",
+                  "Fibocom_MDM_MultiUpdater使用说明及常见问题处理_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/Fibocom_MDM_MultiUpdater使用说明及常见问题处理_V1.0.2.pdf",
+                  "FIBOCOM 高通QXDM工具使用指导书_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Windows/FIBOCOM+高通QXDM工具使用指导书_V1.0.3.pdf"
+               },
+               "Android":{
+                  "相关资源":{
+                     "CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/相关资源/CBB_Linux_Host_Diaggrab_TooL_Android&Linux_V2.0.0.zip",
+                     "Ril_V2.0.5.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/相关资源/Ril_V2.0.5.zip",
+                     "gps.apk":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/相关资源/gps.apk",
+                     "Fibocom_Upgrade_Tool_Android_Linux_V1.4.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/相关资源/Fibocom_Upgrade_Tool_Android_Linux_V1.4.zip",
+                     "CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/相关资源/CBB_Linux_Host_Dump_Collect_Tool_Android&Linux_V2.0.1.zip"
+                  },
+                  "Fibocom_RIL集成指南_Android_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/Fibocom_RIL集成指南_Android_V2.2.pdf",
+                  "FIBOCOM RIL中FOAT升级&整包升级指导手册_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/FIBOCOM+RIL中FOAT升级&整包升级指导手册_V1.0.1.pdf",
+                  "FIBOCOM NL系列 Android RIL 适配指导手册_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/FIBOCOM+NL系列+Android+RIL+适配指导手册_V1.0.1.pdf",
+                  "Fibocom_Diaggrab抓取Log指南_V2.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/Fibocom_Diaggrab抓取Log指南_V2.2.pdf",
+                  "Fibocom_NL668&L716&MG110_RIL适配指南_Android_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/Fibocom_NL668&L716&MG110_RIL适配指南_Android_V1.1.pdf",
+                  "FIBOCOM GPS 特性安卓使用指南_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Android/FIBOCOM+GPS+特性安卓使用指南_V1.0.1.pdf"
+               },
+               "Open":{
+                  "FIBOCOM NL668 Open系列 UART接口配置指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+UART接口配置指南_V1.0.0.pdf",
+                  "FIBOCOM NL668系列 OpenSDK快速入门_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668系列+OpenSDK快速入门_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 LOG打印API应用接口开发指南_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+LOG打印API应用接口开发指南_V1.0.1.pdf",
+                  "FIBOCOM NL668 Open系列 SDK技术与资源综述指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+SDK技术与资源综述指南_V1.0.0.pdf",
+                  "Fibocom_NL668_Open_快速入门_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/Fibocom_NL668_Open_快速入门_V1.1.pdf",
+                  "FIBOCOM NL668 休眠唤醒 OPEN API 使用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+休眠唤醒+OPEN+API+使用指南_V1.0.0.pdf",
+                  "Fibocom_NL668_Open SDK添加应用自启动指导_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/Fibocom_NL668_Open+SDK添加应用自启动指导_V1.0.pdf",
+                  "Fibocom_NL668_Open Series_GPIO功能复用表_V1.1.xlsx":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/Fibocom_NL668_Open+Series_GPIO功能复用表_V1.1.xlsx",
+                  "Fibocom_NL668_Sleep & Wakeup Open API Guide_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/Fibocom_NL668_Sleep+&+Wakeup+Open+API+Guide_V1.0.pdf",
+                  "FIBOCOM NL668 Open系列 FOTA接口使用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+FOTA接口使用指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 差分包工具使用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+差分包工具使用指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 关机与重启接口配置指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+关机与重启接口配置指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 网络接口配置应用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+网络接口配置应用指南_V1.0.0.pdf",
+                  "Fibocom_NL668_Open_FOTA差分包制作指南_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/Fibocom_NL668_Open_FOTA差分包制作指南_V1.1.pdf",
+                  "FIBOCOM NL668 Open系列 ADC接口使用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+ADC接口使用指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 SDK SIM接口配置指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+SDK+SIM接口配置指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 SDK DM接口配置指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+SDK+DM接口配置指南_V1.0.0.pdf",
+                  "Fibocom_NL668_Open_PCM使用指南_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/Fibocom_NL668_Open_PCM使用指南_V1.0.pdf",
+                  "FIBOCOM NL668 Open系列 SPI使用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+SPI使用指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 I2C使用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+I2C使用指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 SDK指南_V1.0.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+SDK指南_V1.0.2.pdf",
+                  "FIBOCOM NL668 Open系列 SDK DATA接口配置指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+SDK+DATA接口配置指南_V1.0.0.pdf",
+                  "FIBOCOM NL668 Open系列 GPIO接口使用指南_V1.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+GPIO接口使用指南_V1.0.1.pdf",
+                  "FIBOCOM NL668 Open系列 短信接口配置应用指南_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/Open/FIBOCOM+NL668+Open系列+短信接口配置应用指南_V1.0.0.pdf"
+               },
+               "通用":{
+                  "FIBOCOM 电力行业专用AT命令_V1.0.5.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM+电力行业专用AT命令_V1.0.5.pdf",
+                  "FIBOCOM NL668系列MDM VoLTE使用说明_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM+NL668系列MDM+VoLTE使用说明_V1.0.0.pdf",
+                  "NL668应用指南_NTP_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_NTP_V1.0.0.pdf",
+                  "NL668应用指南_LBS_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_LBS_V1.0.0.pdf",
+                  "FIBOCOM 短信AT命令使用指导手册_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM+短信AT命令使用指导手册_V1.0.3.pdf",
+                  "FIBOCOM NL668 应用业务流程手册_V2.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM+NL668+应用业务流程手册_V2.0.1.pdf",
+                  "FIBOCOM MA510&NL668&MC108 系列 FOTA升级指南_V1.0.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM+MA510&NL668&MC108+系列+FOTA升级指南_V1.0.3.pdf",
+                  "NL668应用指南_FTP_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_FTP_V1.0.0.pdf",
+                  "相关资源":{
+                     "NL668应用指南_SMS":{
+                        "PDU格式转换":{
+                           "SMSPDU.exe":{
+                              
+                           }
+                        },
+                        "参考文档":{
+                           "SMS_Demo.c":{
+                              
+                           },
+                           "FIBCOM_MODULE 电话及短信功能流程及指导_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/相关资源/NL668应用指南_SMS/参考文档/FIBCOM_MODULE+电话及短信功能流程及指导_V1.0.0.pdf"
+                        }
+                     }
+                  },
+                  "FIBOCOM NL668&MC116&LC116 AT Commands User Manual_V3.5.21.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM+NL668&MC116&LC116+AT+Commands+User+Manual_V3.5.21.pdf",
+                  "FIBOCOM_NL668&NL652&MC116&MG110_应用指南_休眠唤醒_V1.0.6.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/FIBOCOM_NL668&NL652&MC116&MG110_应用指南_休眠唤醒_V1.0.6.pdf",
+                  "NL668应用指南_TTS_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_TTS_V1.0.0.pdf",
+                  "Fibocom_AT命令手册_HTTP_V2.0.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/Fibocom_AT命令手册_HTTP_V2.0.1.pdf",
+                  "NL668应用指南_短信_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_短信_V1.0.0.pdf",
+                  "NL668应用指南_透传_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_透传_V1.0.0.pdf",
+                  "NL668应用指南_HTTP_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_HTTP_V1.0.0.pdf",
+                  "NL668应用指南_TCP_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_TCP_V1.0.0.pdf",
+                  "NL668应用指南_UDP_V1.0.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/3-软件/通用/NL668应用指南_UDP_V1.0.0.pdf"
+               }
+            },
+            "1-概述":{
+               "NL668-CN":{
+                  "Fibocom_NL668-CN-22-M2-10_产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-CN/Fibocom_NL668-CN-22-M2-10_产品单页_V1.0.pdf",
+                  "Fibocom_NL668-CN_MiniPCIe产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-CN/Fibocom_NL668-CN_MiniPCIe产品单页_V1.0.pdf",
+                  "Fibocom_NL668-CN_产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-CN/Fibocom_NL668-CN_产品单页_V1.0.pdf",
+                  "Fibocom_NL668-CN_MiniPCIe_产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-CN/Fibocom_NL668-CN_MiniPCIe_产品单页_V1.0.pdf"
+               },
+               "NL668-AM":{
+                  "Fibocom_NL668-AM_MiniPCIe产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-AM/Fibocom_NL668-AM_MiniPCIe产品单页_V1.0.pdf",
+                  "Fibocom NL668-AM MiniPCIe产品单页_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-AM/Fibocom+NL668-AM+MiniPCIe产品单页_V1.1.pdf",
+                  "Fibocom_NL668-AM-00-11_Datasheet.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-AM/Fibocom_NL668-AM-00-11_Datasheet.pdf",
+                  "Fibocom NL668-AM 产品单页_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-AM/Fibocom+NL668-AM+产品单页_V1.1.pdf"
+               },
+               "NL668-EAU":{
+                  "Fibocom_NL668-EAU-05_M.2产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EAU/Fibocom_NL668-EAU-05_M.2产品单页_V1.0.pdf",
+                  "Fibocom_NL668-EAU_MiniPCIe_产品单页_V1.2.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EAU/Fibocom_NL668-EAU_MiniPCIe_产品单页_V1.2.pdf",
+                  "Fibocom_NL668-EAU_产品单页_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EAU/Fibocom_NL668-EAU_产品单页_V1.1.pdf",
+                  "Fibocom_NL668-EAU-00_产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EAU/Fibocom_NL668-EAU-00_产品单页_V1.0.pdf",
+                  "Fibocom NL668-EAU 产品单页_V1.2 (1).pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EAU/Fibocom+NL668-EAU+产品单页_V1.2+(1).pdf",
+                  "Fibocom_NL668-EAU-00_MiniPCIe产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EAU/Fibocom_NL668-EAU-00_MiniPCIe产品单页_V1.0.pdf"
+               },
+               "NL668-LA":{
+                  "Fibocom_NL668-LA_产品单页_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-LA/Fibocom_NL668-LA_产品单页_V1.1.pdf",
+                  "Fibocom_NL668-LA_MiniPCIe产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-LA/Fibocom_NL668-LA_MiniPCIe产品单页_V1.0.pdf"
+               },
+               "NL668-JP":{
+                  "Fibocom_NL668-JP_MiniPCIe_产品单页_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-JP/Fibocom_NL668-JP_MiniPCIe_产品单页_V1.1.pdf",
+                  "Fibocom_NL668-JP_产品单页_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-JP/Fibocom_NL668-JP_产品单页_V1.1.pdf"
+               },
+               "相关证书":{
+                  "NL668 00系列认证证书":{
+                     "NL668-CN":{
+                        "FIBOCOM NL668-CN Certification.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN/FIBOCOM+NL668-CN+Certification.zip"
+                     },
+                     "NL668-AM":{
+                        "FIBOCOM NL668-AM 认证资料.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-AM/FIBOCOM+NL668-AM+认证资料.zip"
+                     },
+                     "NL668-NAL":{
+                        "NL668 NAL进网证书_有效期至20240309.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-NAL/NL668+NAL进网证书_有效期至20240309.pdf"
+                     },
+                     "NL668-CN-80(OpenLinux)":{
+                        "CCC":{
+                           "NL668 恒昌盛CCC证书中文版.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-80(OpenLinux)/CCC/NL668+恒昌盛CCC证书中文版.pdf",
+                           "NL668 恒昌盛CCC证书英文版.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-80(OpenLinux)/CCC/NL668+恒昌盛CCC证书英文版.pdf"
+                        },
+                        "CE RED":{
+                           "NL668 CE RED cert.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-80(OpenLinux)/CE+RED/NL668+CE+RED+cert.pdf"
+                        },
+                        "SRRC":{
+                           "NL668 SRRC证书.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-80(OpenLinux)/SRRC/NL668+SRRC证书.pdf"
+                        },
+                        "NAL":{
+                           "NL668 NAL证书.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-80(OpenLinux)/NAL/NL668+NAL证书.pdf"
+                        },
+                        "RoHS":{
+                           "NL668 RoHS报告.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-80(OpenLinux)/RoHS/NL668+RoHS报告.pdf"
+                        }
+                     },
+                     "NL668-EAU":{
+                        "FIBOCOM NL668-EAU Certification.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-EAU/FIBOCOM+NL668-EAU+Certification.zip"
+                     },
+                     "NL668-LA":{
+                        "FIBOCOM NL668-LA 认证资料.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-LA/FIBOCOM+NL668-LA+认证资料.zip"
+                     },
+                     "NL668-CN-90(OpenLinux)":{
+                        "CCC":{
+                           "NL668 恒昌盛CCC证书中文版.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-90(OpenLinux)/CCC/NL668+恒昌盛CCC证书中文版.pdf",
+                           "NL668 恒昌盛CCC证书英文版.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-90(OpenLinux)/CCC/NL668+恒昌盛CCC证书英文版.pdf"
+                        },
+                        "CE RED":{
+                           "NL668 CE RED cert.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-90(OpenLinux)/CE+RED/NL668+CE+RED+cert.pdf"
+                        },
+                        "SRRC":{
+                           "NL668 SRRC.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-90(OpenLinux)/SRRC/NL668+SRRC.pdf"
+                        },
+                        "NAL":{
+                           "NL668 NAL证书.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-90(OpenLinux)/NAL/NL668+NAL证书.pdf"
+                        },
+                        "RoHS":{
+                           "NL668 RoHS报告.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-CN-90(OpenLinux)/RoHS/NL668+RoHS报告.pdf"
+                        }
+                     },
+                     "NL668-JP":{
+                        "FIBOCOM NL668-JP 认证资料.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-JP/FIBOCOM+NL668-JP+认证资料.zip"
+                     },
+                     "NL668-EU":{
+                        "FIBOCOM NL668-EU 认证资料.zip":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+00系列认证证书/NL668-EU/FIBOCOM+NL668-EU+认证资料.zip"
+                     }
+                  },
+                  "NL668 05&10&30&40系列认证证书":{
+                     "NL668-EAU":{
+                        "CE":{
+                           "3933-21_TIMCO RED EU-Type Examination Certificate rev1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-EAU/CE/3933-21_TIMCO+RED+EU-Type+Examination+Certificate+rev1.pdf"
+                        },
+                        "UKCA":{
+                           "1452-22_TIMCO RER UK-Type Examination Certificate.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-EAU/UKCA/1452-22_TIMCO+RER+UK-Type+Examination+Certificate.pdf"
+                        },
+                        "GCF":{
+                           "NL668-EAU_GCF.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-EAU/GCF/NL668-EAU_GCF.pdf"
+                        },
+                        "RCM":{
+                           "ACMA DoC.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-EAU/RCM/ACMA+DoC.pdf"
+                        }
+                     },
+                     "NL668-LA":{
+                        "ANATEL":{
+                           "Brazil CoC_Fibocom NL668-LA - Expires 05 August 2023..pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-LA/ANATEL/Brazil+CoC_Fibocom+NL668-LA+-+Expires+05+August+2023..pdf",
+                           "Brazil CoH_Fibocom NL668-LA - Check expiration in CoC.PDF":{
+                              
+                           }
+                        },
+                        "FCC":{
+                           "0734-22 Grant.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-LA/FCC/0734-22+Grant.pdf"
+                        }
+                     },
+                     "NL668-JP":{
+                        "TELEC":{
+                           "Japan MIC Certificate (218-458961).pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-JP/TELEC/Japan+MIC+Certificate+(218-458961).pdf"
+                        },
+                        "JATE":{
+                           "CSTT210008_Fibocom_NL668-JP 20210204.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-JP/JATE/CSTT210008_Fibocom_NL668-JP+20210204.pdf"
+                        }
+                     },
+                     "NL668-EU":{
+                        "CE":{
+                           "0752-22_TIMCO RED EU-Type Examination Certificate Rev1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-EU/CE/0752-22_TIMCO+RED+EU-Type+Examination+Certificate+Rev1.pdf"
+                        },
+                        "UKCA":{
+                           "3367-21_TIMCO RER UK-Type Examination Certificate.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/相关证书/NL668+05&10&30&40系列认证证书/NL668-EU/UKCA/3367-21_TIMCO+RER+UK-Type+Examination+Certificate.pdf"
+                        }
+                     }
+                  }
+               },
+               "NL668-EU":{
+                  "Fibocom_NL668-EU_产品单页_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EU/Fibocom_NL668-EU_产品单页_V1.3.pdf",
+                  "Fibocom_NL668-EU_MiniPCIe_产品单页_V1.3.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/NL668-EU/Fibocom_NL668-EU_MiniPCIe_产品单页_V1.3.pdf"
+               },
+               "Fibocom_NL668-757S-10_产品单页_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/NL668/Zh/1-概述/Fibocom_NL668-757S-10_产品单页_V1.0.pdf"
+            }
+         }
+      },
+      "MyTest01":{
+         "Fibocom_NL668-LA-30_datasheet_V1.0.pdf":"https://fibodocs.s3.amazonaws.com/Devices/MyTest01/Fibocom_NL668-LA-30_datasheet_V1.0.pdf",
+         "Change History-EN-20211214.txt":"https://fibodocs.s3.amazonaws.com/Devices/MyTest01/Change+History-EN-20211214.txt",
+         "Fibocom_NL668-LA_Datasheet_V1.1.pdf":"https://fibodocs.s3.amazonaws.com/Devices/MyTest01/Fibocom_NL668-LA_Datasheet_V1.1.pdf"
+      }
+   }
+}
